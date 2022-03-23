@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+.blanc{
+    background-color: rgb(8, 1, 1);
+    padding-top: 10px;
+    height: 70px;
+    width: 90px;
+    margin:15%
+}
+
+.noir{
+    background-color: rgb(255, 255, 255);
+    padding-top: 10px;
+    height: 70px;
+    width: 90px;
+
+}
